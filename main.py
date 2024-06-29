@@ -6,8 +6,8 @@ from Lista import companies, clients, workers
 
 def logowanie():
     # Ustawienie poprawnych danych logowania
-    correct_login = "12"
-    correct_password = "12"
+    correct_login = "123"
+    correct_password = "123"
     logowanie = False
 
     # Pętla logowania, dopóki użytkownik nie wprowadzi poprawnych danych
